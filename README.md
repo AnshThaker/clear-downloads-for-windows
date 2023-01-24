@@ -1,6 +1,7 @@
 # Clear Downloads for Windows
 
 To download and install this software on your Windows Desktop, check out the releases.
+This software is not available for Linux or MacOS yet.
 
 This is the repository of Clear Downloads for Windows. Clear Downloads is a straightforward yet powerful tool that swiftly clears your downloads folder in Windows. There are also several modes to choose from, each of which can be used to only remove particular types of files. 
 
