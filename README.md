@@ -6,5 +6,4 @@ Google Drive and Microsoft Defender (or any other Anti-Virus) may flag the insta
 
 Since Clear Downloads is completely free and open-source, you can navigate to the 'src' folder to view the source code and project files.
 
-To download and install this software on your Windows Desktop, head to this link: https://drive.google.com/file/d/1a8bK6h5vbnWlYY68l9onlBFgM3wXqFM4/view?usp=sharing.
-You can also navigate to 'install/link.txt' for the link.
+To download and install this software on your Windows Desktop, check out the releases.
